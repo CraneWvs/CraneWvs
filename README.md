@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there. Welcome to my page! 👋
+<p>I'm Yun, a developer currently living in <b>Dublin, Ireland</b>. </p>
+<p>I love coding, reading and anything interesting.</p>
+<p>I want to explore the world widely and deeply.</p>
+<p>I can do some stuffs now but I want to do more...</p>
 
 <!--
 **CraneWvs/CraneWvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
